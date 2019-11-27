@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">피자 주문</string>
+
+    <string name="pizza_title">프리미엄 피자</string>
+    <string name="pizza_add">상세 보기</string>
+    <string name="pizza_result">주문 하기</string>
+    <string name="pizza_choice">선택 하기</string>
+    <string name="pizza1">갈릭 마블 스테이크</string>
+    <string name="pizza2">더블 퐁듀 비프킹</string>
+    <string name="pizza3">갈릭 버터 쉬림프</string>
+    <string name="pizza4">더블 퐁듀 반반</string>
+    <string name="pizza5">더블 퐁듀 쉬림프</string>
+    <string name="pizza6">큐브 스테이크</string>
+    <string name="pizza7">토핑킹</string>
+    <string name="pizza8">치즈킹</string>
+    <string name="pizza9">치즈 스테이크</string>
+    <string name="pizza10">직화 불고기</string>
+    <string name="pizza11">베이컨 포테이토</string>
+    <string name="pizza12">수퍼 슈프림</string>
+</resources>
